@@ -1,0 +1,23 @@
+{
+  "name": "boko-tutorial",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "events": "^3.3.0",
+    "gsap": "^3.10.4",
+    "lil-gui": "^0.17.0",
+    "three": "^0.142.0",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@seregpie/three.text-sprite": "^3.2.0",
+    "@simonwep/pickr": "^1.8.2",
+    "bootstrap-colorpicker": "^3.4.0",
+    "dat.gui": "^0.7.9"
+  }
+}
